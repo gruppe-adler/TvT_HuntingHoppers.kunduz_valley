@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={9546.1084,124.63188,9813.667};
-		dir[]={-0.74442029,-0.60935783,0.27298635};
-		up[]={-0.57210368,0.79289532,0.20979612};
-		aside[]={0.34429049,0,0.93886316};
+		pos[]={9484.0205,86.580193,9803.8428};
+		dir[]={0.021850854,-0.57959974,0.81460851};
+		up[]={0.015541431,0.81489915,0.57939076};
+		aside[]={0.99964029,-8.6129148e-10,-0.026814103};
 	};
 };
 binarizationWanted=0;
@@ -3599,11 +3599,11 @@ class Mission
 				class Item1
 				{
 					dataType="Marker";
-					position[]={5558.4424,22.621033,5755.9146};
+					position[]={5529.769,21.862841,5765.7524};
 					name="respawn_east";
 					type="Empty";
 					id=3;
-					atlOffset=9.3778658;
+					atlOffset=9.3778639;
 				};
 				class Item2
 				{
@@ -3636,7 +3636,7 @@ class Mission
 				};
 			};
 			id=176;
-			atlOffset=1.0902538;
+			atlOffset=1.0709324;
 		};
 		class Item2
 		{
@@ -10059,57 +10059,56 @@ class Mission
 		class Item11
 		{
 			dataType="Marker";
-			position[]={5126.1973,9.4420881,847.19092};
+			position[]={6052.3022,19.369112,1339.5542};
 			name="mrk_bombspot_1";
 			type="Select";
 			colorName="ColorRed";
 			id=773;
-			atlOffset=-19.740631;
+			atlOffset=1.9073486e-06;
 		};
 		class Item12
 		{
 			dataType="Marker";
-			position[]={6497.8022,203.36821,3375.0767};
+			position[]={9223.9795,264.07269,4752.2798};
 			name="mrk_bombspot_2";
 			type="Select";
 			colorName="ColorRed";
 			id=775;
-			atlOffset=203.89978;
+			atlOffset=224.41269;
 		};
 		class Item13
 		{
 			dataType="Marker";
-			position[]={6437.915,24.902643,2877.7847};
+			position[]={6430.8271,55.431183,8587.8291};
 			name="mrk_bombspot_3";
 			type="Select";
 			colorName="ColorRed";
 			id=776;
-			atlOffset=8.5611858;
+			atlOffset=51.211182;
 		};
 		class Item14
 		{
 			dataType="Marker";
-			position[]={6584.0493,50.308716,1898.7583};
+			position[]={8763.4932,43.200066,6714.8892};
 			name="mrk_bombspot_4";
 			type="Select";
 			colorName="ColorRed";
 			id=777;
-			atlOffset=35.628277;
+			atlOffset=15.15587;
 		};
 		class Item15
 		{
 			dataType="Marker";
-			position[]={2147.0181,24.36113,4877.3428};
+			position[]={4835.127,25.950998,3919.501};
 			name="mrk_bombspot_5";
 			type="Select";
 			colorName="ColorRed";
 			id=778;
-			atlOffset=-42.94709;
 		};
 		class Item16
 		{
 			dataType="Marker";
-			position[]={2281.7651,132.24823,6642.8784};
+			position[]={3515.8047,90.057991,7521.6543};
 			name="mrk_bombspot_6";
 			type="Select";
 			colorName="ColorRed";
@@ -10119,142 +10118,140 @@ class Mission
 		class Item17
 		{
 			dataType="Marker";
-			position[]={5767.1235,19.823988,2701.3076};
+			position[]={6527.8989,14.812935,5750.2822};
 			name="mrk_bombspot_7";
 			type="Select";
 			colorName="ColorRed";
 			id=780;
-			atlOffset=2.3835907;
+			atlOffset=2.37008;
 		};
 		class Item18
 		{
 			dataType="Marker";
-			position[]={6870.9453,149.68945,1768.1333};
+			position[]={8990.3457,146.89354,6013.7109};
 			name="mrk_bombspot_8";
 			type="Select";
 			colorName="ColorRed";
 			id=781;
-			atlOffset=140.59323;
+			atlOffset=121.55643;
 		};
 		class Item19
 		{
 			dataType="Marker";
-			position[]={6316.6816,97.742775,3862.7813};
+			position[]={6608.9092,96.822693,4715.4531};
 			name="mrk_bombspot_9";
 			type="Select";
 			colorName="ColorRed";
 			id=782;
-			atlOffset=82.262726;
+			atlOffset=82.262695;
 		};
 		class Item20
 		{
 			dataType="Marker";
-			position[]={5989.4233,177.90793,2490.4751};
+			position[]={6356.395,176.93396,2526.5474};
 			name="mrk_bombspot_10";
 			type="Select";
 			colorName="ColorRed";
 			id=783;
-			atlOffset=159.50592;
+			atlOffset=154.97424;
 		};
 		class Item21
 		{
 			dataType="Marker";
-			position[]={6517.6909,24.289021,2111.4563};
+			position[]={5998.1904,10.96,6279.3521};
 			name="mrk_bombspot_11";
 			type="Select";
 			colorName="ColorRed";
 			id=784;
-			atlOffset=8.9857101;
 		};
 		class Item22
 		{
 			dataType="Marker";
-			position[]={2572.7278,36.53606,5997.6455};
+			position[]={4931.5728,20.106314,5228.7671};
 			name="mrk_bombspot_12";
 			type="Select";
 			colorName="ColorRed";
 			id=785;
-			atlOffset=-28.489574;
+			atlOffset=1.9073486e-06;
 		};
 		class Item23
 		{
 			dataType="Marker";
-			position[]={7124.1206,24.94665,1876.7817};
+			position[]={8028.5962,41.792812,8146.1929};
 			name="mrk_bombspot_13";
 			type="Select";
 			colorName="ColorRed";
 			id=786;
-			atlOffset=11.422623;
+			atlOffset=30.730556;
 		};
 		class Item24
 		{
 			dataType="Marker";
-			position[]={7807.7827,20.153673,1167.6436};
+			position[]={9088.7354,68.557159,3603.3796};
 			name="mrk_bombspot_14";
 			type="Select";
 			colorName="ColorRed";
 			id=787;
-			atlOffset=6.4935503;
+			atlOffset=36.382072;
 		};
 		class Item25
 		{
 			dataType="Marker";
-			position[]={5171.1265,99.600098,3148.5957};
+			position[]={6309.5566,92.613861,3235.4631};
 			name="mrk_bombspot_15";
 			type="Select";
 			colorName="ColorRed";
 			id=788;
-			atlOffset=78.127724;
+			atlOffset=76.185562;
 		};
 		class Item26
 		{
 			dataType="Marker";
-			position[]={8042.1177,217.47421,1198.5249};
+			position[]={9452.4131,225.22366,6354.5552};
 			name="mrk_bombspot_16";
 			type="Select";
 			colorName="ColorRed";
 			id=789;
-			atlOffset=198.60452;
+			atlOffset=198.01367;
 		};
 		class Item27
 		{
 			dataType="Marker";
-			position[]={6657.7036,14.176959,1434.9546};
+			position[]={8795.2363,41.511925,5755.5293};
 			name="mrk_bombspot_17";
 			type="Select";
 			colorName="ColorRed";
 			id=790;
-			atlOffset=1.9849072;
+			atlOffset=19.981924;
 		};
 		class Item28
 		{
 			dataType="Marker";
-			position[]={2530.1072,36.374512,6366.5894};
+			position[]={3789.3962,21.661106,6188.6313};
 			name="mrk_bombspot_18";
 			type="Select";
 			colorName="ColorRed";
 			id=791;
-			atlOffset=-24.35733;
 		};
 		class Item29
 		{
 			dataType="Marker";
-			position[]={5265.8389,285.40723,3317.5259};
+			position[]={3991.4246,280.49289,3450.3875};
 			name="mrk_bombspot_19";
 			type="Select";
 			colorName="ColorRed";
 			id=792;
-			atlOffset=261.35291;
+			atlOffset=251.33289;
 		};
 		class Item30
 		{
 			dataType="Marker";
-			position[]={6361.0278,135.86609,3190.7422};
+			position[]={5999.937,156.60066,6770.1431};
 			name="mrk_bombspot_20";
 			type="Select";
 			colorName="ColorRed";
 			id=793;
-			atlOffset=121.55609;
+			atlOffset=144.21066;
 		};
 		class Item31
 		{
@@ -10288,82 +10285,82 @@ class Mission
 		class Item33
 		{
 			dataType="Marker";
-			position[]={9.1030273,402.01212,7069.4639};
+			position[]={2.9843612,402.01215,6802.9395};
 			name="mrk_exfiltrate_1";
 			type="Empty";
 			id=905;
-			atlOffset=343.57251;
+			atlOffset=343.62149;
 		};
 		class Item34
 		{
 			dataType="Marker";
-			position[]={6024.1851,410.30295,8230.3398};
+			position[]={4263.3789,415.25433,9348.9932};
 			name="mrk_exfiltrate_2";
 			type="Empty";
 			id=906;
-			atlOffset=407.54294;
+			atlOffset=407.17941;
 		};
 		class Item35
 		{
 			dataType="Marker";
-			position[]={3002.5537,287.51404,16.426758};
+			position[]={10186.593,289.99438,3736.688};
 			name="mrk_exfiltrate_3";
 			type="Empty";
 			id=907;
-			atlOffset=205.67944;
+			atlOffset=235.49896;
 		};
 		class Item36
 		{
 			dataType="Marker";
-			position[]={8128.0928,291.90363,717.4541};
+			position[]={6249.3281,289.22083,371.83948};
 			name="mrk_exfiltrate_4";
 			type="Empty";
 			id=908;
-			atlOffset=271.42505;
+			atlOffset=271.42502;
 		};
 		class Item37
 		{
 			dataType="Marker";
-			position[]={8.1030273,411,7069.4639};
+			position[]={4.829771,411,6800.2373};
 			name="marker_8";
 			text=" opfor hideout";
 			type="mil_join";
 			colorName="ColorEAST";
 			id=922;
-			atlOffset=352.65839;
+			atlOffset=352.76593;
 		};
 		class Item38
 		{
 			dataType="Marker";
-			position[]={6023.5254,423.97211,8234.9941};
+			position[]={4264.1421,429.28955,9350.3125};
 			name="marker_9";
 			text=" opfor hideout";
 			type="mil_join";
 			colorName="ColorEAST";
 			id=923;
-			atlOffset=421.2121;
+			atlOffset=421.21207;
 		};
 		class Item39
 		{
 			dataType="Marker";
-			position[]={3002.1333,128.3421,15.679688};
+			position[]={6246.4028,64.15873,365.19934};
 			name="marker_10";
 			text=" opfor hideout";
 			type="mil_join";
 			colorName="ColorEAST";
 			id=924;
-			atlOffset=46.089233;
+			atlOffset=46.089172;
 		};
 		class Item40
 		{
 			dataType="Marker";
-			position[]={8128.0771,256.3291,713.80371};
+			position[]={10186.601,259.80066,3737.645};
 			name="marker_11";
 			text=" opfor hideout";
 			type="mil_join";
 			colorName="ColorEAST";
 			id=925;
-			atlOffset=235.83559;
+			atlOffset=205.2756;
 		};
 		class Item41
 		{
@@ -10513,7 +10510,7 @@ class Mission
 		class Item50
 		{
 			dataType="Marker";
-			position[]={5107.4766,143.53024,2830.7815};
+			position[]={5102.0869,143.39398,2800.9165};
 			name="mrk_bombspot_21";
 			type="Select";
 			colorName="ColorRed";
@@ -10523,32 +10520,32 @@ class Mission
 		class Item51
 		{
 			dataType="Marker";
-			position[]={6711.6792,167.72891,3208.5481};
+			position[]={7658.3994,218.50117,9180.543};
 			name="mrk_bombspot_22";
 			type="Select";
 			colorName="ColorRed";
 			id=1024;
-			atlOffset=168.57625;
+			atlOffset=202.11118;
 		};
 		class Item52
 		{
 			dataType="Marker";
-			position[]={6822.7505,417.8634,2019.9751};
+			position[]={7492.9497,411.49243,7896.3081};
 			name="mrk_bombspot_23";
 			type="Select";
 			colorName="ColorRed";
 			id=1025;
-			atlOffset=410.04086;
+			atlOffset=400.13245;
 		};
 		class Item53
 		{
 			dataType="Marker";
-			position[]={3569.3315,143.06705,255.32983};
+			position[]={4740.0938,143.06705,493.41089};
 			name="mrk_bombspot_24";
 			type="Select";
 			colorName="ColorRed";
 			id=1026;
-			atlOffset=63.801102;
+			atlOffset=96.789001;
 		};
 		class Item54
 		{
@@ -10563,12 +10560,12 @@ class Mission
 		class Item55
 		{
 			dataType="Marker";
-			position[]={5508.9961,289.46893,1287.0581};
+			position[]={5360.1802,320.44254,8281.7148};
 			name="mrk_bombspot_26";
 			type="Select";
 			colorName="ColorRed";
 			id=1028;
-			atlOffset=267.01495;
+			atlOffset=312.87253;
 		};
 		class Item56
 		{
