@@ -10,7 +10,7 @@
     "dependencies": {
         "@gruppe-adler/replay": "^1.6.0",
         "grad-dyngroupdecals": "0.0.1",
-        "grad-factions-tvt": "^0.5.2",
+        "grad-factions-tvt": "^1.0.5",
         "grad-fortifications": "^0.9.4",
         "grad-gpstracker": "^0.2.0",
         "grad-listbuymenu": "^0.8.1",
